@@ -1,0 +1,18 @@
+<!DOCTYPE html public "-//W3C//DTD HTML 4.01 Frameset//EN"
+        "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+    <title>Пример использования фреймов</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+</head>
+<frameset rows="100, *">
+    <frame src="doc1.html" scrolling="no">
+    <frameset cols="20%, 80%">
+        <frame src="doc2.html">
+        <frame src="chapter1.html" name="chapter">
+    </frameset>
+    <noframes>
+        <p>Ваш браузер не отображает фреймы</p>
+    </noframes>
+</frameset>
+</html>
