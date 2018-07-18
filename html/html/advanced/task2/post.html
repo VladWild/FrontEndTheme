@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML: Advanced / Task 2 / Post</title>
+</head>
+<body>
+<h1>Registration form</h1>
+<form action="http://httpbin.org/post" method="post">
+    <fieldset>
+        <legend>Personal data</legend>
+        <label>
+            First name
+            <input type="text">
+        </label>
+        <br><br>
+        <label>Surname
+            <input type="text">
+        </label>
+        <br><br>
+        <table>
+            <tr>
+                <td rowspan="2" width="46%">
+                    <label>
+                        Sex
+                    </label>
+                </td>
+                <td>
+                    <label>
+                        <input type="radio" name="floor" value="male" checked>
+                        Male
+                    </label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>
+                        <input type="radio" name="floor" value="female">
+                        Female
+                    </label>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+    <fieldset>
+        <legend>Contact Information</legend>
+        <label>
+            Site
+            <input type="text">
+        </label>
+        <br><br>
+        <label>
+            Email
+            <input type="text">
+        </label>
+        <br><br>
+        <label>
+            Phone
+            <input type="text">
+        </label>
+        <br><br>
+    </fieldset>
+    <br>
+    <input type="submit" value="Send">
+</form>
+</body>
+</html>

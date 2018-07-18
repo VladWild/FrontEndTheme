@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML: Advanced / Task 2 / Post</title>
+</head>
+<body>
+<h1>Registration form</h1>
+<form action="http://httpbin.org/post" method="post">
+    <fieldset>
+        <legend>Personal data</legend>
+        <label>
+            First name
+            <input type="text">
+        </label>
+        <br><br>
+        <label>
+            Middle name
+            <input type="text">
+        </label>
+        <br><br>
+        <label>Surname
+            <input type="text">
+        </label>
+        <br><br>
+        <table>
+            <tr>
+                <td rowspan="2" width="46%">
+                    <label>
+                        Sex
+                    </label>
+                </td>
+                <td>
+                    <label>
+                        <input type="radio" name="floor" value="male" checked>
+                        Male
+                    </label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label>
+                        <input type="radio" name="floor" value="female">
+                        Female
+                    </label>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <label>
+            Age
+            <input type="number" min=18 max=101>
+        </label>
+        <br><br>
+        <label>Country of Residence
+            <select tabindex="-1">
+                <option>Russia</option>
+                <option>USA</option>
+                <option>Canada</option>
+                <option>England</option>
+            </select>
+        </label>
+        <br><br>
+        <label>
+            City
+            <input type="checkbox">
+            Ryazan
+        </label>
+        <label>
+            <input type="checkbox">
+            Moscow
+        </label>
+        <br><br>
+        <label>Photography </label>
+        <input type="file">
+        <hr>
+        <table>
+            <tr>
+                <td width="26%">
+                    <label>
+                        Title
+                    </label>
+                </td>
+                <td>
+                    <label>
+                        <select name="array[]" size="8" multiple>
+                            <optgroup label="Techologies">
+                                <option value="c1">Web Master</option>
+                                <option value="c2">Database Administrator</option>
+                                <option value="c3">Computer-aided design</option>
+                            </optgroup>
+                            <optgroup label="Finance">
+                                <option value="s1">Economic Planning</option>
+                                <option value="s2">Management accounting</option>
+                                <option value="s3">Budgeting and planning</option>
+                            </optgroup>
+                        </select>
+                    </label>
+                </td>
+            </tr>
+        </table>
+        <br><br>
+        <label for="start">
+            Salary
+        </label>
+        <input type="range" id="start" name="volume" min="0" max="11"/>
+        <br><br>
+        <p>
+            <textarea placeholder="Tell us about yourself..." name="message" rows="10" cols="50"></textarea>
+        </p>
+    </fieldset>
+    <fieldset>
+        <legend>Contact Information</legend>
+        <label>
+            Site
+            <input type="text">
+        </label>
+        <br><br>
+        <label>
+            Email
+            <input type="text">
+        </label>
+        <br><br>
+        <label>
+            Phone
+            <input type="text">
+        </label>
+        <br><br>
+    </fieldset>
+    <br>
+    <input type="submit" value="Send">
+    <input type="reset" value="Reset">
+</form>
+</body>
+</html>
