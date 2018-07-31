@@ -1,0 +1,45 @@
+#rectangle {
+    margin: 0 auto;
+    bottom: 24px;
+    width: 200px;
+    height: 10px;
+    background: lightgray;
+}
+
+#menu{
+    margin: 0 auto;
+    background: green;
+    bottom: 100px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+li{
+    display: block;
+    justify-content: center;
+    width: 200px;
+    height: 30px;
+    background: yellow;
+}
+
+#menu:hover ~ ul{
+    display: block;
+    background: lightgreen;
+}
+
+#my:hover > ul{
+    display: block;
+    background: lightgreen;
+}
+
+#menu:hover{
+    background: orange;
+}
+
+ul:hover{
+    display: block;
+}

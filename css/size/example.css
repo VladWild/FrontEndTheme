@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    background-color: red;
+    width: 10%;
+    height: 15px;
+    margin: 45px;
+    padding: 65px;
+    font-family: Calibri;
+}
+
+.newclass{
+    width: 56px;
+    height: 56px;
+
+}
+
+.mainDiv{
+    background-color: #00f424;
+}
+.divs{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+   border: solid 20px black;
+}
+
+#wrapper{
+    background-color: aqua;
+}
+
+#wrapper2{
+    background-color: blueviolet;
+}

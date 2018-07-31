@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .arrow.down{
+            transform: rotate(0deg) translate(0px, 25px);
+            -webkit-transform: rotate(0deg) translate(0px, 25px);
+            -moz-transform: rotate(0deg) translate(0px, 25px);
+            -o-transform: rotate(0deg) translate(0px, 25px);
+            -ms-transform: rotate(0deg) translate(0px, 25px);
+        }
+        .q {
+            line-height: 2em;
+            /* use this to adjust vertical positioning */
+            margin-left: 0.5em;
+            margin-right: 0.5em;
+            -webkit-transform: rotate(135deg);
+            -moz-transform: rotate(135deg);
+            -o-transform: rotate(135deg);
+            -ms-transform: rotate(135deg);
+            transform: rotate(135deg);
+            background: #000;
+        }
+        .arrow-left {
+            width: 0;
+            height: 0;
+            border-top: 10px solid transparent;
+            border-bottom: 10px solid transparent;
+
+            border-right:10px solid blue;
+        }
+        .arrow_box {
+            position: relative;
+            background: #88b7d5;
+            border: 4px solid #c2e1f5;
+        }
+        .arrow_box:after, .arrow_box:before {
+            top: 100%;
+            left: 50%;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+        }
+
+        .arrow_box:after {
+            border-color: rgba(136, 183, 213, 0);
+            border-top-color: #88b7d5;
+            border-width: 20px;
+            margin-left: -20px;
+        }
+        .arrow_box:before {
+            border-color: rgba(194, 225, 245, 0);
+            border-top-color: #c2e1f5;
+            border-width: 26px;
+            margin-left: -26px;
+        }
+    </style>
+</head>
+<body>
+    <div class="arrow_box"></div>
+    &lt;div class="row"&gt;
+    &lt;div class="arrow down"&gt;&lt;/div&gt;
+    &lt;span&gt;Стрелка вниз&lt;/span&gt;
+    &lt;code&gt;
+    &lt;pre&gt;
+    &amp;lt;div class="arrow down"&amp;gt;&amp;lt;/div&amp;gt;
+    &lt;/pre&gt;
+    &lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class="row"&gt;
+    &lt;div class="arrow up"&gt;&lt;/div&gt;
+    &lt;span&gt;Стрелка вверх&lt;/span&gt;
+    &lt;code&gt;
+    &lt;pre&gt;
+    &amp;lt;div class="arrow up"&amp;gt;&amp;lt;/div&amp;gt;
+    &lt;/pre&gt;
+    &lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class="row"&gt;
+    &lt;div class="arrow left"&gt;&lt;/div&gt;
+    &lt;span&gt;Стрелка влево&lt;/span&gt;
+    &lt;code&gt;
+    &lt;pre&gt;
+    &amp;lt;div class="arrow left"&amp;gt;&amp;lt;/div&amp;gt;
+    &lt;/pre&gt;
+    &lt;/code&gt;
+    &lt;/div&gt;
+    &lt;div class="row"&gt;
+    &lt;div class="arrow right"&gt;&lt;/div&gt;
+    &lt;span&gt;Стрелка вправо&lt;/span&gt;
+    &lt;code&gt;
+    &lt;pre&gt;
+    &amp;lt;div class="arrow right"&amp;gt;&amp;lt;/div&amp;gt;
+    &lt;/pre&gt;
+    &lt;/code&gt;
+    &lt;/div&gt;
+</body>
+</html>

@@ -1,0 +1,13 @@
+p {
+    margin: 100px;
+    background: red;
+    width: 400px;
+    padding: 10px;
+    border: 2px solid blue;
+}
+
+a{
+    background-color: #1e9200;
+    border: 2px solid blue;
+    padding: 10px;
+}

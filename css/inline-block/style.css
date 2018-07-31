@@ -1,0 +1,11 @@
+.block{
+    display: inline-block;
+}
+
+.block > div{
+    background: #32ff3b;
+    margin-bottom: 10px;
+    width: 10px;
+    height: 10px;
+}
+

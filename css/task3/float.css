@@ -1,0 +1,62 @@
+#float > h3{
+    position: relative;
+    bottom: 5px;
+    left: 1px;
+}
+
+#float > .panel{
+    margin-left: 9px;
+}
+
+#float > .panel > .box{
+    margin-bottom: 20px;
+}
+
+#float > .panel > .box > .image > img{
+    padding: 11px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    z-index: -1;
+}
+
+#float > .panel > .box > .image > span{
+    position: absolute;
+    visibility: hidden;
+}
+
+#float > .panel > .box > button{
+    padding: 7px 20px;
+    margin-top: 6px;
+    border: 1px solid gray;
+    border-radius: 3px;
+    background: linear-gradient(#fcfff6, #e6f0e2) #e5f9d5;
+}
+
+#float > .panel > .box > .details{
+    margin-right: 10px;
+}
+
+#float > .panel > .box > button:hover{
+    background: #32ff3b;
+}
+
+#float > .panel > .box > button:active{
+    background: linear-gradient(#e5f9d5 , #fcfff6) #e6f0e2;
+}
+
+#float > .panel > .box:nth-child(4n),
+#float > .panel > .box:nth-child(4n+1),
+#float > .panel > .box:nth-child(4n+2)
+{
+    margin-right: 18px;
+    float: left;
+}
+
+#float > .panel > .box > .image > span{
+    position: absolute;
+    visibility: hidden;
+}
+
+#float > .panel > .box > .image:hover > img{
+    -webkit-filter: brightness(50%);
+}
