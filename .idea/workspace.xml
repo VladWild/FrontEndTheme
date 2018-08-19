@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c96a60a2-33a5-4074-947d-fa4a8be8ce68" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript/MVP/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/MVP/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/mvc-tasks/task1/Searcher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/mvc-tasks/task1/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/json-server/2 asunch-request-and-get-data/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/json-server/2 asunch-request-and-get-data/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/connect2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/indexV2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/string/indexof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/string/split.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/mvc/variant1-v2/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/mvc/variant1-v2/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/json-server/connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/json-server/1 synch-request-and-get-data/connect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/json-server/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/json-server/1 synch-request-and-get-data/page.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,20 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Searcher.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1/Searcher.html">
+      <file leaf-file-name="core.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/core.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="136">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="event.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1/event.js">
+      <file leaf-file-name="core.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/mvc/variant1-v2/core.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="160">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -45,8 +52,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,19 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/2 struktury dannyh/4 objects/objects.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/2 struktury dannyh/4 objects/examples.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/2 struktury dannyh/5 objects perebor svoystv/ex.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/2 struktury dannyh/7 massivy/massivy.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/2 struktury dannyh/9 massiv perebirauzhie metody/ex.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/3 zamykaniya oblasti vidimosti/1 global object/example.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/3 zamykaniya oblasti vidimosti/2 zamykaniya/zamykaniya.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/3 zamykaniya oblasti vidimosti/4 localnye peremennye dlya objecta/ex.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/3 zamykaniya oblasti vidimosti/4 localnye peremennye dlya objecta/ex2.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/3 zamykaniya oblasti vidimosti/4 localnye peremennye dlya objecta/sum/sum.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/3 zamykaniya oblasti vidimosti/5 moduli cherez zamykaniya/ex.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/3 zamykaniya oblasti vidimosti/5 moduli cherez zamykaniya/ex2.js" />
-        <option value="$PROJECT_DIR$/javascript/learn.javascript/4 metody objects and contex vyzova/1 metody objects this/ex.js" />
         <option value="$PROJECT_DIR$/javascript/learn.javascript/4 metody objects and contex vyzova/1 metody objects this/ex2.js" />
         <option value="$PROJECT_DIR$/javascript/learn.javascript/4 metody objects and contex vyzova/1 metody objects this/calculator.js" />
         <option value="$PROJECT_DIR$/javascript/learn.javascript/4 metody objects and contex vyzova/2 preobrazovaniya objects/preobrazovaniya objects.js" />
@@ -97,16 +91,29 @@
         <option value="$PROJECT_DIR$/javascript/anonim-function/anonim-functiobn.js" />
         <option value="$PROJECT_DIR$/javascript/json-server/сщттусе.js" />
         <option value="$PROJECT_DIR$/javascript/json-server/page.html" />
-        <option value="$PROJECT_DIR$/javascript/json-server/connect.js" />
         <option value="$PROJECT_DIR$/javascript/mvc/variant1/style.css" />
         <option value="$PROJECT_DIR$/javascript/mvc/variant1/index.html" />
         <option value="$PROJECT_DIR$/javascript/anonim-function/anonim-function.js" />
         <option value="$PROJECT_DIR$/javascript/mvc/variant1/core.js" />
         <option value="$PROJECT_DIR$/javascript/mvc/variant1-v2/index.html" />
         <option value="$PROJECT_DIR$/javascript/mvc-tasks/task1/seacher.html" />
-        <option value="$PROJECT_DIR$/javascript/mvc/variant1-v2/core.js" />
         <option value="$PROJECT_DIR$/javascript/mvc-tasks/task1/Searcher.html" />
         <option value="$PROJECT_DIR$/javascript/mvc-tasks/task1/event.js" />
+        <option value="$PROJECT_DIR$/javascript/string/indexof.js" />
+        <option value="$PROJECT_DIR$/javascript/string/split.js" />
+        <option value="$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/style.css" />
+        <option value="$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/indexV2.html" />
+        <option value="$PROJECT_DIR$/javascript/json-server/connect.js" />
+        <option value="$PROJECT_DIR$/javascript/json-server/asunch-request-and-get-data/page.html" />
+        <option value="$PROJECT_DIR$/javascript/json-server/asunch-request-and-get-data/connect.js" />
+        <option value="$PROJECT_DIR$/javascript/json-server/2 asunch-request-and-get-data/connect.js" />
+        <option value="$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/connect.js" />
+        <option value="$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/page.html" />
+        <option value="$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/connect2.js" />
+        <option value="$PROJECT_DIR$/javascript/mvc/variant1-v2/core.js" />
+        <option value="$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/core.js" />
+        <option value="$PROJECT_DIR$/css/input.html" />
+        <option value="$PROJECT_DIR$/css/input/input.html" />
       </list>
     </option>
   </component>
@@ -119,17 +126,18 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="946" />
-    <option name="y" value="16" />
-    <option name="width" value="886" />
-    <option name="height" value="1025" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="694" />
+    <option name="y" value="8" />
+    <option name="width" value="663" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,67 +145,35 @@
               <item name="FrontEndTheme" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEndTheme" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FrontEndTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="events" type="462c0819:PsiDirectoryNode" />
-              <item name="load-messege" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEndTheme" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEndTheme" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="mvc" type="462c0819:PsiDirectoryNode" />
-              <item name="variant1-v2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Library" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\FrontEndTheme\javascript" />
-      <recent name="C:\Users\Lenovo\Documents\WebstormProjects\FrontEndTheme\javascript\mvc" />
-      <recent name="D:\Projects\FrontEndTheme\javascript\json-server" />
-      <recent name="D:\Projects\FrontEndTheme\javascript\events\load-image" />
-      <recent name="D:\Projects\FrontEndTheme\javascript\events\load-messege" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\WebstormProjects\FrontEndTheme\css\input" />
+      <recent name="C:\Users\Lenovo\Documents\WebstormProjects\FrontEndTheme\javascript\json-server\synch-request-and-get-data" />
       <recent name="D:\Projects\FrontEndTheme\javascript\output" />
       <recent name="D:\Projects\FrontEndTheme\javascript\events\load-image" />
       <recent name="D:\Projects\FrontEndTheme\javascript\learn.javascript\1 language" />
-      <recent name="D:\Projects\FrontEndTheme\javascript\presentations" />
-      <recent name="D:\Projects\FrontEndTheme\javascript\this" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\WebstormProjects\FrontEndTheme\javascript\json-server\3 sent data with POST method" />
+      <recent name="C:\Users\Lenovo\Documents\WebstormProjects\FrontEndTheme\javascript\json-server\asunch-request-and-get-data" />
+      <recent name="D:\Projects\FrontEndTheme\javascript" />
+      <recent name="C:\Users\Lenovo\Documents\WebstormProjects\FrontEndTheme\javascript\mvc" />
+      <recent name="D:\Projects\FrontEndTheme\javascript\json-server" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,33 +188,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.page.html">
-    <configuration name="Searcher.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/mvc-tasks/task1/Searcher.html" />
-    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/mvc/variant1-v2/index.html" />
-    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/MVP/index.html" />
-    <configuration name="page.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/events/load-messege/page.html" />
+  <component name="RunManager" selected="JavaScript Debug.input.html">
+    <configuration name="indexV2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/mvc-tasks/task1-v2/indexV2.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/mvc/variant1-v2/index.html" />
+    <configuration name="input.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/css/input/input.html" />
+    <configuration name="page.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/json-server/2 asunch-request-and-get-data/page.html" />
+    <configuration name="page.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/FrontEndTheme/javascript/json-server/3 sent data with POST method/page.html" />
     <configuration name="Unnamed (1)" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" working-dir="$PROJECT_DIR$" />
     <configuration name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" working-dir="$PROJECT_DIR$" />
-    <configuration name="connect.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="connect.js" working-dir="$PROJECT_DIR$/javascript/json-server" />
-    <configuration name="core.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="core.js" working-dir="$PROJECT_DIR$/javascript/mvc/variant1" />
     <configuration name="functionvyrazheniya.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/javascript/learn.javascript/1 language/1 osnovy js/15 functions vyrazheniya/functionvyrazheniya.js" working-dir="$PROJECT_DIR$/javascript/learn.javascript/1 language/1 osnovy js/15 functions vyrazheniya" />
     <list>
       <item itemvalue="Node.js.Unnamed (1)" />
       <item itemvalue="Node.js.functionvyrazheniya.js" />
       <item itemvalue="Node.js.Unnamed" />
-      <item itemvalue="Node.js.core.js" />
-      <item itemvalue="JavaScript Debug.index.html (1)" />
-      <item itemvalue="JavaScript Debug.Searcher.html" />
-      <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="JavaScript Debug.page.html (2)" />
       <item itemvalue="JavaScript Debug.page.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.indexV2.html" />
+      <item itemvalue="JavaScript Debug.input.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.input.html" />
+        <item itemvalue="JavaScript Debug.indexV2.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.page.html" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.Searcher.html" />
-        <item itemvalue="Node.js.core.js" />
+        <item itemvalue="JavaScript Debug.page.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -263,22 +238,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142792000" />
+    <option name="totallyTimeSpent" value="171673000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="946" y="16" width="886" height="1025" extended-state="0" />
+    <frame x="694" y="8" width="663" height="724" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3091954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26584235" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007728" side_tool="true" visible="true" weight="0.38373983" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38100436" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992272" visible="true" weight="0.38373983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886364" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774558" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -306,42 +281,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/2 struktury dannyh/4 objects/examples.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/2 struktury dannyh/4 objects/objects.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/2 struktury dannyh/5 objects perebor svoystv/ex.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/2 struktury dannyh/7 massivy/massivy.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/2 struktury dannyh/9 massiv perebirauzhie metody/ex.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/3 zamykaniya oblasti vidimosti/5 moduli cherez zamykaniya/ex.js" />
-    <entry file="uml://JavaScript-modules-diagram/D:/Projects/FrontEndTheme/javascript/learn.javascript/4 metody objects and contex vyzova/1 metody objects this/ex.js">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement />
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="313.0" y="241.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/4 metody objects and contex vyzova/1 metody objects this/calculator.js" />
     <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/4 metody objects and contex vyzova/1 metody objects this/ex2.js" />
     <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/4 metody objects and contex vyzova/1 metody objects this/ex.js" />
     <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/4 metody objects and contex vyzova/2 preobrazovaniya objects/preobrazovaniya objects.js" />
@@ -365,30 +308,12 @@
     <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/3 zamykaniya oblasti vidimosti/4 localnye peremennye dlya objecta/ex2.js" />
     <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/3 zamykaniya oblasti vidimosti/2 zamykaniya/zamykaniya.js" />
     <entry file="file://$PROJECT_DIR$/javascript/learn.javascript/1 language/3 zamykaniya oblasti vidimosti/4 localnye peremennye dlya objecta/sum/sum.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/prototype/prototype.js" />
-    <entry file="file://$PROJECT_DIR$/javascript/json-server/connect.js" />
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/1 synch-request-and-get-data/connect.js" />
     <entry file="file://$PROJECT_DIR$/html/iframe.html" />
-    <entry file="file://$PROJECT_DIR$/javascript/json-server/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
           <caret line="15263" column="4" selection-start-line="15263" selection-start-column="4" selection-end-line="15263" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/json-server/connect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -423,29 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/mvc/variant1-v2/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/mvc/variant1-v2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/MVP/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/MVP/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/events/load-messege/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/events/load-messege/connect.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -453,24 +355,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/string/indexof.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/string/split.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1/Searcher.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/indexV2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/2 asunch-request-and-get-data/page.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/2 asunch-request-and-get-data/connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/connect2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/3 sent data with POST method/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/mvc/variant1-v2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/1 synch-request-and-get-data/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/json-server/1 synch-request-and-get-data/connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/MVP/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/MVP/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/prototype/prototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javascript/mvc/variant1-v2/core.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="160">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1/event.js">
+    <entry file="file://$PROJECT_DIR$/css/input/input.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="226">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/mvc-tasks/task1-v2/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>

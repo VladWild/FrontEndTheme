@@ -4,8 +4,17 @@ var request = new XMLHttpRequest(); // 1. Создаём новый объект
 request.open('GET', 'http://localhost:3000/db', false); // 2. Конфигурируем его: GET-запрос на URL 'http://localhost:3000/db'
 request.send(); // 3. Отсылаем запрос
 
-var object = request.response;
+var str = request.response;
 
-console.log(object);
+var servObj = JSON.parse(str);
 
-/*попробовать асинхронный*/
+console.log(servObj);
+console.log(servObj.books[0].title);
+
+servObj.books.push(new Object());
+
+
+
+
+
+
