@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Позиционирование</title>
+    <style type="text/css">
+        #leftcol {
+            position: absolute; /* Абсолютное позиционирование */
+            width: 550px; /* Ширина левой колонки */
+            background: #e0e0e0; /* Цвет фона содержимого */
+            padding: 10px /* Поля вокруг текста */
+        }
+        #rightcol { /* Этот слой накладывается поверх */
+            position: relative; /* Относительное позиционирование */
+            left: 500px; /* Положение от левого края */
+            top: 20px; /* Положение от верхнего края */
+            width: 200px; /* Ширина правой колонки */
+            background: #800000; /* Цвет фона */
+            color: #fff; /* Цвет текста */
+        }
+    </style>
+</head>
+<body>
+<div id="leftcol">Левая колонка</div>
+<div id="rightcol">Правая колонка</div>
+</body>
+</html>

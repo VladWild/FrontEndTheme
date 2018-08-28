@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="page">
+    <img id="image" src="CakesAndBakes.jpg" alt="" style="cursor: pointer">
+</div>
+<script>
+    imageHTML = document.getElementById('image');
+    imageHTML.onclick = function () {
+        console.log('vfghasdcdsc');
+        showPrompt("Введите что-нибудь<br>... умное :)", function(value) {
+            alert( value );
+        });
+    }
+</script>
+</body>
+</html>

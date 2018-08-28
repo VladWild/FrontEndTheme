@@ -1,0 +1,27 @@
+.stars{
+    display: flex;
+    align-content: center;
+    height: 27px;
+    width: 100%;
+    /*background: greenyellow;*/
+}
+
+.stars  ul{
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+    margin: 0;
+    padding: 0;
+}
+
+.stars li{
+    list-style-type: none;
+    margin-right: 2px;
+    color: orange;
+    cursor: pointer;
+}
+
+.stars li:active{
+    color: #ffc48a;
+    box-shadow: 0 0 0 0;
+}
