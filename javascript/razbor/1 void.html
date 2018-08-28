@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Void</title>
+</head>
+<body>
+<span>Берем текст из первого поля и вставляем его во второе</span>
+<br><br>
+<a href="javascript:void(oneValue=document.getElementById('one').value);
+    void(document.getElementById('two').value=oneValue);">With Void</a>
+<a href="javascript:oneValue=document.getElementById('one').value;
+    document.getElementById('two').value=oneValue;">Without Void</a>
+<br><br>
+<input type="text" id="one" value="one text">
+<br>
+<input type="text" id="two" value="two text">
+</body>
+</html>
+
+
