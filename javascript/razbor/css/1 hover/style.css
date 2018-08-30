@@ -1,0 +1,21 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background: yellow;
+}
+
+button {
+    background: navy;
+    color: white;
+    width: 60px;
+    height: 30px;
+}
+
+button:hover {
+    background: white;
+    color: blue;
+}
+
